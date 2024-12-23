@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 500px;
+    min-height: 300px;
     flex-direction: column;
     background-color: rgb(81, 81, 115);
     color: rgb(0, 255, 8);
@@ -11,8 +11,8 @@ body{
     position: relative;
 }
 .clock{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     background-color: cadetblue;
     border: 2px solid black;
     border-radius: 50%;
